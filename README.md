@@ -1,4 +1,4 @@
-# Legion: Zero
+# Wings of the Legion
 
 Kosmiczna gra wojskowa w przeglądarce. Zagraj: https://u4475116324-svg.github.io/wings-of-the-legion/
 
